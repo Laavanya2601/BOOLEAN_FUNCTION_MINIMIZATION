@@ -58,8 +58,8 @@ TRUTH TABLE:
 
 **TIMING DIAGRAM:**
 
+![image](https://github.com/user-attachments/assets/cb6e7065-b0ec-41a5-9afc-61760806f759)
 
-![Screenshot 2024-12-12 185421](https://github.com/user-attachments/assets/109442eb-e928-4259-8499-c8a6edcdc51d)
 
 **RESULT:**
 
